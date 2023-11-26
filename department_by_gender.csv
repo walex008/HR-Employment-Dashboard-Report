@@ -1,0 +1,38 @@
+gender_count,department,gender
+287,Accounting,Female
+265,Accounting,Male
+14,Accounting,Non-Conforming
+4,Auditing,Female
+8,Auditing,Male
+129,"Business Development",Female
+126,"Business Development",Male
+7,"Business Development",Non-Conforming
+541,Engineering,Female
+554,Engineering,Male
+33,Engineering,Non-Conforming
+148,"Human Resources",Female
+146,"Human Resources",Male
+3,"Human Resources",Non-Conforming
+27,Legal,Female
+33,Legal,Male
+2,Legal,Non-Conforming
+24,Marketing,Female
+46,Marketing,Male
+43,"Product Management",Female
+66,"Product Management",Male
+2,"Product Management",Non-Conforming
+87,"Research and Development",Female
+105,"Research and Development",Male
+10,"Research and Development",Non-Conforming
+145,Sales,Female
+167,Sales,Male
+7,Sales,Non-Conforming
+123,Services,Female
+154,Services,Male
+4,Services,Non-Conforming
+82,Support,Female
+82,Support,Male
+7,Support,Non-Conforming
+146,Training,Female
+131,Training,Male
+7,Training,Non-Conforming
