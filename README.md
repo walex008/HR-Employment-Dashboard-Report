@@ -1,5 +1,6 @@
 # HR-Employment-Dashboard-Report
 
+![HR Employeed EDA dashboard screeshot](https://github.com/walex008/HR-Employment-Dashboard-Report/blob/main/HR%20report%20screenshot.JPG)
 
 ## Data Used
  **Data Set:** HR employee database
